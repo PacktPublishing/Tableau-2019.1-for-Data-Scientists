@@ -1,0 +1,44 @@
+OrderDate,Region,Sales Manager,Item,Units,Price
+04-Jul-18,East,Mike,Notebook,62,4.99
+12-Jul-18,East,Sophie ,Binder,29,1.99
+21-Jul-18,Central,Tom ,Notebook,55,12.49
+29-Jul-18,East,Anne ,Binder,81,19.99
+07-Aug-18,Central,Jack ,Notebook,42,23.95
+15-Aug-18,East,Mike ,Pencil,35,4.99
+24-Aug-18,West,Header ,Desk,3,275
+01-Sep-18,Central,Bob ,Desk,2,125
+10-Sep-18,Central,Maria ,Pencil,7,1.29
+18-Sep-18,East,Mike ,Notebook,16,15.99
+27-Sep-18,West,Header,Pen,76,1.99
+05-Oct-18,Central,Tom ,Binder,28,8.99
+14-Oct-18,West,Rob,Binder,57,19.99
+22-Oct-18,East,Mike ,Pen,64,8.99
+31-Oct-18,Central,Diana ,Pencil,14,1.29
+08-Nov-18,East,Anne ,Pen,15,19.99
+17-Nov-18,Central,Alex,Binder,11,4.99
+25-Nov-18,Central,Jack ,Notebook,96,4.99
+04-Dec-18,Central,Alex,Binder,94,19.99
+12-Dec-18,Central,Bob ,Pencil,67,1.29
+21-Dec-18,Central,Diana ,Binder,28,4.99
+29-Dec-18,East,Anne ,Notebook,74,15.99
+06-Jan-19,East,Mike ,Pencil,95,1.99
+15-Jan-19,Central,Maria ,Binder,46,8.99
+23-Jan-19,Central,Jack ,Binder,50,19.99
+01-Feb-19,Central,Bob ,Binder,87,15
+09-Feb-19,Central,Alex,Pencil,36,4.99
+18-Feb-19,East,Mike ,Binder,4,4.99
+26-Feb-19,Central,Maria ,Pen,27,19.99
+07-Mar-19,West,Header,Binder,7,19.99
+15-Mar-19,West,Header,Pencil,56,2.99
+24-Mar-19,Central,Alex,Notebook,50,4.99
+01-Apr-19,East,Mike ,Binder,60,4.99
+10-Apr-19,Central,Diana ,Pencil,66,1.99
+18-Apr-19,Central,Diana ,Pencil,75,1.99
+27-Apr-19,East,Sophie ,Pen,96,4.99
+05-May-19,Central,Alex,Pencil,90,4.99
+14-May-19,Central,Maria ,Pencil,53,1.29
+22-May-19,West,Rob,Pencil,32,1.99
+31-May-19,Central,Maria ,Binder,80,8.99
+08-Jun-19,East,Mike ,Binder,60,8.99
+17-Jun-19,Central,Jack,Desk,5,125
+25-Jun-19,Central,Tom ,Pencil,90,4.99
